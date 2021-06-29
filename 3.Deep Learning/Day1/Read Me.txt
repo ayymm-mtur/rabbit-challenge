@@ -1,0 +1,8 @@
+以下の5ファイルが講義と確認テストまとめ
+1_input.ipynb
+2_Activation_function.ipynb
+3_Output_layer.ipynb
+4_SGD.ipynb
+5_Back_propagation.ipynb
+
+実装演習結果の結果はexerciseフォルダ配下に格納

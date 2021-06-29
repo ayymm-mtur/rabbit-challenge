@@ -1,0 +1,8 @@
+以下の5ファイルが講義のまとめ
+1_Linear_Regression.ipynb
+2_Nonlinear_regression.ipynb
+3_Logistic_regression.ipynb
+4_Principal_component_analysis.ipynb
+5_Algorithm.ipynb
+
+ハンズオンの結果はhands_onフォルダ配下に格納
