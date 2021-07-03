@@ -1,0 +1,9 @@
+以下の5ファイルが講義と確認テストまとめ
+1_Vanishing_gradient_Problem.ipynb
+2_Learning_rate_optimization.ipynb
+3_Over_training.ipynb
+4_Convolutional_Neural_Network.ipynb
+5_Latest_cnn.ipynb
+
+
+実装演習はexerciseフォルダ配下に格納
