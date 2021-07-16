@@ -1,0 +1,11 @@
+以下の7ファイルが講義まとめ
+1_Concept_of_RNN.ipynb
+2_LSTM.ipynb
+3_GRU.ipynb
+4_Bidirectional_RNN.ipynb
+5_Seq2Seq.ipynb
+6_Word2vec.ipynb
+7_AttensionMechanism.ipynb
+
+
+実装演習はexerciseフォルダ配下に格納

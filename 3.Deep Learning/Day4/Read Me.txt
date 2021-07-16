@@ -1,0 +1,11 @@
+以下の7ファイルが講義まとめ
+1_Reinforcement_Learning.ipynb
+2_Alpha_Go.ipynb
+3_Speeding_up.ipynb
+4_Applied_technology.ipynb
+5_Transformer.ipynb
+6_Object_Detection.ipynb
+
+
+
+実装演習はexerciseフォルダ配下に格納
